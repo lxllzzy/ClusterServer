@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/muchen/item/ClusterServer/build/src/server",
+  "command": "/usr/bin/c++  -I/home/muchen/item/ClusterServer/include -I/home/muchen/item/ClusterServer/include/server -I/home/muchen/item/ClusterServer/include/server/db -I/home/muchen/item/ClusterServer/include/server/model -I/home/muchen/item/ClusterServer/include/server/redis -I/home/muchen/item/ClusterServer/thirdparty -g -o CMakeFiles/server.dir/chatserver.cpp.o -c /home/muchen/item/ClusterServer/src/server/chatserver.cpp",
+  "file": "/home/muchen/item/ClusterServer/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/muchen/item/ClusterServer/build/src/server",
+  "command": "/usr/bin/c++  -I/home/muchen/item/ClusterServer/include -I/home/muchen/item/ClusterServer/include/server -I/home/muchen/item/ClusterServer/include/server/db -I/home/muchen/item/ClusterServer/include/server/model -I/home/muchen/item/ClusterServer/include/server/redis -I/home/muchen/item/ClusterServer/thirdparty -g -o CMakeFiles/server.dir/chatservice.cpp.o -c /home/muchen/item/ClusterServer/src/server/chatservice.cpp",
+  "file": "/home/muchen/item/ClusterServer/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/muchen/item/ClusterServer/build/src/server",
+  "command": "/usr/bin/c++  -I/home/muchen/item/ClusterServer/include -I/home/muchen/item/ClusterServer/include/server -I/home/muchen/item/ClusterServer/include/server/db -I/home/muchen/item/ClusterServer/include/server/model -I/home/muchen/item/ClusterServer/include/server/redis -I/home/muchen/item/ClusterServer/thirdparty -g -o CMakeFiles/server.dir/main.cpp.o -c /home/muchen/item/ClusterServer/src/server/main.cpp",
+  "file": "/home/muchen/item/ClusterServer/src/server/main.cpp"
+},
+{
+  "directory": "/home/muchen/item/ClusterServer/build/src/server",
+  "command": "/usr/bin/c++  -I/home/muchen/item/ClusterServer/include -I/home/muchen/item/ClusterServer/include/server -I/home/muchen/item/ClusterServer/include/server/db -I/home/muchen/item/ClusterServer/include/server/model -I/home/muchen/item/ClusterServer/include/server/redis -I/home/muchen/item/ClusterServer/thirdparty -g -o CMakeFiles/server.dir/db/db.cpp.o -c /home/muchen/item/ClusterServer/src/server/db/db.cpp",
+  "file": "/home/muchen/item/ClusterServer/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/muchen/item/ClusterServer/build/src/server",
+  "command": "/usr/bin/c++  -I/home/muchen/item/ClusterServer/include -I/home/muchen/item/ClusterServer/include/server -I/home/muchen/item/ClusterServer/include/server/db -I/home/muchen/item/ClusterServer/include/server/model -I/home/muchen/item/ClusterServer/include/server/redis -I/home/muchen/item/ClusterServer/thirdparty -g -o CMakeFiles/server.dir/model/friendmodel.cpp.o -c /home/muchen/item/ClusterServer/src/server/model/friendmodel.cpp",
+  "file": "/home/muchen/item/ClusterServer/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/muchen/item/ClusterServer/build/src/server",
+  "command": "/usr/bin/c++  -I/home/muchen/item/ClusterServer/include -I/home/muchen/item/ClusterServer/include/server -I/home/muchen/item/ClusterServer/include/server/db -I/home/muchen/item/ClusterServer/include/server/model -I/home/muchen/item/ClusterServer/include/server/redis -I/home/muchen/item/ClusterServer/thirdparty -g -o CMakeFiles/server.dir/model/groupmodel.cpp.o -c /home/muchen/item/ClusterServer/src/server/model/groupmodel.cpp",
+  "file": "/home/muchen/item/ClusterServer/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/muchen/item/ClusterServer/build/src/server",
+  "command": "/usr/bin/c++  -I/home/muchen/item/ClusterServer/include -I/home/muchen/item/ClusterServer/include/server -I/home/muchen/item/ClusterServer/include/server/db -I/home/muchen/item/ClusterServer/include/server/model -I/home/muchen/item/ClusterServer/include/server/redis -I/home/muchen/item/ClusterServer/thirdparty -g -o CMakeFiles/server.dir/model/offlinemsgmodel.cpp.o -c /home/muchen/item/ClusterServer/src/server/model/offlinemsgmodel.cpp",
+  "file": "/home/muchen/item/ClusterServer/src/server/model/offlinemsgmodel.cpp"
+},
+{
+  "directory": "/home/muchen/item/ClusterServer/build/src/server",
+  "command": "/usr/bin/c++  -I/home/muchen/item/ClusterServer/include -I/home/muchen/item/ClusterServer/include/server -I/home/muchen/item/ClusterServer/include/server/db -I/home/muchen/item/ClusterServer/include/server/model -I/home/muchen/item/ClusterServer/include/server/redis -I/home/muchen/item/ClusterServer/thirdparty -g -o CMakeFiles/server.dir/model/usermodel.cpp.o -c /home/muchen/item/ClusterServer/src/server/model/usermodel.cpp",
+  "file": "/home/muchen/item/ClusterServer/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/muchen/item/ClusterServer/build/src/server",
+  "command": "/usr/bin/c++  -I/home/muchen/item/ClusterServer/include -I/home/muchen/item/ClusterServer/include/server -I/home/muchen/item/ClusterServer/include/server/db -I/home/muchen/item/ClusterServer/include/server/model -I/home/muchen/item/ClusterServer/include/server/redis -I/home/muchen/item/ClusterServer/thirdparty -g -o CMakeFiles/server.dir/redis/redis.cpp.o -c /home/muchen/item/ClusterServer/src/server/redis/redis.cpp",
+  "file": "/home/muchen/item/ClusterServer/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/muchen/item/ClusterServer/build/src/client",
+  "command": "/usr/bin/c++  -I/home/muchen/item/ClusterServer/include -I/home/muchen/item/ClusterServer/include/server -I/home/muchen/item/ClusterServer/include/server/db -I/home/muchen/item/ClusterServer/include/server/model -I/home/muchen/item/ClusterServer/include/server/redis -I/home/muchen/item/ClusterServer/thirdparty -g -o CMakeFiles/chatClient.dir/main.cpp.o -c /home/muchen/item/ClusterServer/src/client/main.cpp",
+  "file": "/home/muchen/item/ClusterServer/src/client/main.cpp"
+}
+]

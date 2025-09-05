@@ -1,0 +1,10 @@
+/home/muchen/item/ClusterServer/build/CMakeFiles/edit_cache.dir
+/home/muchen/item/ClusterServer/build/CMakeFiles/rebuild_cache.dir
+/home/muchen/item/ClusterServer/build/src/CMakeFiles/edit_cache.dir
+/home/muchen/item/ClusterServer/build/src/CMakeFiles/rebuild_cache.dir
+/home/muchen/item/ClusterServer/build/src/server/CMakeFiles/server.dir
+/home/muchen/item/ClusterServer/build/src/server/CMakeFiles/edit_cache.dir
+/home/muchen/item/ClusterServer/build/src/server/CMakeFiles/rebuild_cache.dir
+/home/muchen/item/ClusterServer/build/src/client/CMakeFiles/chatClient.dir
+/home/muchen/item/ClusterServer/build/src/client/CMakeFiles/edit_cache.dir
+/home/muchen/item/ClusterServer/build/src/client/CMakeFiles/rebuild_cache.dir
